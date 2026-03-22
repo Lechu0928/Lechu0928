@@ -16,7 +16,7 @@
 |---|---|
 | Programming | Python, SQL |
 | Data Analysis | Pandas, NumPy, Excel |
-| Visualization | Matplotlib, Seaborn |
+| Visualization | Matplotlib, Seaborn, PowerBI |
 | Design | Canva |
 | Others | GitHub, Jupyter Notebook |
 
