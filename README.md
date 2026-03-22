@@ -52,16 +52,3 @@
 
 ⭐ *"Every expert was once a beginner. Keep going!"*
 ```
-
----
-
-## Now paste this in TWO places:
-
-**Place 1 — Profile README:**
-```
-https://github.com/Lechu0928/Lechu0928/edit/main/README.md
-```
-
-**Place 2 — Project README:**
-```
-https://github.com/Lechu0928/mental-health-ai-mpra/edit/main/README.md
